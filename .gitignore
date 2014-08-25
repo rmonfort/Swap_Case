@@ -172,3 +172,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+Swap_Case/Swap_Case.vcxproj
+*.filters
+*.sln
